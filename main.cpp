@@ -18,7 +18,7 @@ using namespace std;
 
 int main() {
     int n; 
-    cout << "nhap so n";
+    cout << "nguoi dung nhap chu so n ";
     cin >> n;
 
     inDaySo(n);
